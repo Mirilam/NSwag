@@ -38,7 +38,7 @@
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net7.0'">
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="8.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="7.0.0" />
   </ItemGroup>
 
